@@ -1,0 +1,1756 @@
+[
+  {
+    "id": 1,
+    "attributes": {
+      "Title": "Inception",
+      "createdAt": "2024-05-30T14:05:42.038Z",
+      "updatedAt": "2024-06-03T09:12:27.845Z",
+      "publishedAt": "2024-05-30T14:05:43.368Z",
+      "ImdbId": "tt1375666",
+      "Year": 2010,
+      "Writers": "Christopher Nolan",
+      "Director": "Christopher Nolan",
+      "Stars": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/YoHD9XEInc0",
+      "Description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "genres": {
+        "data": [
+          {
+            "id": 16,
+            "attributes": {
+              "GenreName": "Sci-Fi",
+              "createdAt": "2024-06-03T05:43:49.259Z",
+              "updatedAt": "2024-06-03T05:43:50.359Z",
+              "publishedAt": "2024-06-03T05:43:50.325Z"
+            }
+          },
+          {
+            "id": 2,
+            "attributes": {
+              "GenreName": "Adventure",
+              "createdAt": "2024-06-03T05:41:07.263Z",
+              "updatedAt": "2024-06-03T05:41:09.558Z",
+              "publishedAt": "2024-06-03T05:41:09.523Z"
+            }
+          },
+          {
+            "id": 1,
+            "attributes": {
+              "GenreName": "Action",
+              "createdAt": "2024-06-03T05:40:46.007Z",
+              "updatedAt": "2024-06-03T05:40:51.958Z",
+              "publishedAt": "2024-06-03T05:40:51.923Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 4,
+          "attributes": {
+            "name": "inception.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "/uploads/large_inception_0db4399692.png",
+                "hash": "large_inception_0db4399692",
+                "mime": "image/png",
+                "name": "large_inception.png",
+                "path": null,
+                "size": 1844.42,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 1844423
+              },
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_inception_0db4399692.png",
+                "hash": "small_inception_0db4399692",
+                "mime": "image/png",
+                "name": "small_inception.png",
+                "path": null,
+                "size": 493,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 493000
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "/uploads/medium_inception_0db4399692.png",
+                "hash": "medium_inception_0db4399692",
+                "mime": "image/png",
+                "name": "medium_inception.png",
+                "path": null,
+                "size": 1073.49,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 1073491
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_inception_0db4399692.png",
+                "hash": "thumbnail_inception_0db4399692",
+                "mime": "image/png",
+                "name": "thumbnail_inception.png",
+                "path": null,
+                "size": 93.7,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 93701
+              }
+            },
+            "hash": "inception_0db4399692",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 827.98,
+            "url": "/uploads/inception_0db4399692.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-01T22:36:26.534Z",
+            "updatedAt": "2024-06-01T22:36:26.534Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 2,
+    "attributes": {
+      "Title": "Fight Club",
+      "createdAt": "2024-06-01T21:33:31.722Z",
+      "updatedAt": "2024-06-03T09:08:08.546Z",
+      "publishedAt": "2024-06-01T21:33:33.417Z",
+      "ImdbId": "tt0137523",
+      "Year": 1999,
+      "Writers": "Chuck Palahniuk, Jim Uhls",
+      "Director": "David Fincher",
+      "Stars": "Brad Pitt, Edward Norton, Meat Loaf",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/qtRKdVHc-cE",
+      "Description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "genres": {
+        "data": [
+          {
+            "id": 7,
+            "attributes": {
+              "GenreName": "Drama",
+              "createdAt": "2024-06-03T05:42:03.287Z",
+              "updatedAt": "2024-06-03T05:42:04.431Z",
+              "publishedAt": "2024-06-03T05:42:04.396Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 13,
+          "attributes": {
+            "name": "fightclub.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "/uploads/large_fightclub_408ad659c9.jpg",
+                "hash": "large_fightclub_408ad659c9",
+                "mime": "image/jpeg",
+                "name": "large_fightclub.jpg",
+                "path": null,
+                "size": 83.07,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 83068
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "/uploads/small_fightclub_408ad659c9.jpg",
+                "hash": "small_fightclub_408ad659c9",
+                "mime": "image/jpeg",
+                "name": "small_fightclub.jpg",
+                "path": null,
+                "size": 27.69,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 27690
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/uploads/medium_fightclub_408ad659c9.jpg",
+                "hash": "medium_fightclub_408ad659c9",
+                "mime": "image/jpeg",
+                "name": "medium_fightclub.jpg",
+                "path": null,
+                "size": 53.44,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 53437
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/uploads/thumbnail_fightclub_408ad659c9.jpg",
+                "hash": "thumbnail_fightclub_408ad659c9",
+                "mime": "image/jpeg",
+                "name": "thumbnail_fightclub.jpg",
+                "path": null,
+                "size": 7.72,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 7723
+              }
+            },
+            "hash": "fightclub_408ad659c9",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 139.86,
+            "url": "/uploads/fightclub_408ad659c9.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-01T23:49:59.360Z",
+            "updatedAt": "2024-06-01T23:49:59.360Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 3,
+    "attributes": {
+      "Title": "WALL·E",
+      "createdAt": "2024-06-01T21:42:54.612Z",
+      "updatedAt": "2024-06-03T09:13:36.992Z",
+      "publishedAt": "2024-06-01T21:42:56.328Z",
+      "ImdbId": "tt0910970",
+      "Year": 2008,
+      "Writers": "Andrew Stanton, Pete Docter, Jim Reardon",
+      "Director": "Andrew Stanton",
+      "Stars": "Ben Burtt, Elissa Knight, Jeff Garlin",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/CZ1CATNbXg0",
+      "Description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+      "genres": {
+        "data": [
+          {
+            "id": 8,
+            "attributes": {
+              "GenreName": "Family",
+              "createdAt": "2024-06-03T05:42:11.045Z",
+              "updatedAt": "2024-06-03T05:42:13.144Z",
+              "publishedAt": "2024-06-03T05:42:13.109Z"
+            }
+          },
+          {
+            "id": 3,
+            "attributes": {
+              "GenreName": "Animation",
+              "createdAt": "2024-06-03T05:41:21.774Z",
+              "updatedAt": "2024-06-03T05:41:22.958Z",
+              "publishedAt": "2024-06-03T05:41:22.922Z"
+            }
+          },
+          {
+            "id": 2,
+            "attributes": {
+              "GenreName": "Adventure",
+              "createdAt": "2024-06-03T05:41:07.263Z",
+              "updatedAt": "2024-06-03T05:41:09.558Z",
+              "publishedAt": "2024-06-03T05:41:09.523Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 12,
+          "attributes": {
+            "name": "walle.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "/uploads/large_walle_8a07c54d32.png",
+                "hash": "large_walle_8a07c54d32",
+                "mime": "image/png",
+                "name": "large_walle.png",
+                "path": null,
+                "size": 1291.18,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 1291177
+              },
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_walle_8a07c54d32.png",
+                "hash": "small_walle_8a07c54d32",
+                "mime": "image/png",
+                "name": "small_walle.png",
+                "path": null,
+                "size": 331.62,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 331620
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "/uploads/medium_walle_8a07c54d32.png",
+                "hash": "medium_walle_8a07c54d32",
+                "mime": "image/png",
+                "name": "medium_walle.png",
+                "path": null,
+                "size": 727.35,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 727351
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_walle_8a07c54d32.png",
+                "hash": "thumbnail_walle_8a07c54d32",
+                "mime": "image/png",
+                "name": "thumbnail_walle.png",
+                "path": null,
+                "size": 72.55,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 72547
+              }
+            },
+            "hash": "walle_8a07c54d32",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 568.67,
+            "url": "/uploads/walle_8a07c54d32.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-01T23:47:24.694Z",
+            "updatedAt": "2024-06-01T23:47:24.694Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 4,
+    "attributes": {
+      "Title": "Psycho",
+      "createdAt": "2024-06-01T21:48:09.036Z",
+      "updatedAt": "2024-06-03T07:05:56.545Z",
+      "publishedAt": "2024-06-01T21:48:16.553Z",
+      "ImdbId": "tt0054215",
+      "Year": 1960,
+      "Writers": "Joseph Stefano, Robert Bloch",
+      "Director": "Alfred Hitchcock",
+      "Stars": " Anthony Perkins, Janet Leigh, Vera Miles",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/DTJQfFQ40lI",
+      "Description": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+      "genres": {
+        "data": [
+          {
+            "id": 17,
+            "attributes": {
+              "GenreName": "Thriller",
+              "createdAt": "2024-06-03T05:44:00.123Z",
+              "updatedAt": "2024-06-03T05:44:01.443Z",
+              "publishedAt": "2024-06-03T05:44:01.408Z"
+            }
+          },
+          {
+            "id": 14,
+            "attributes": {
+              "GenreName": "Mystery",
+              "createdAt": "2024-06-03T05:43:31.385Z",
+              "updatedAt": "2024-06-03T05:43:32.856Z",
+              "publishedAt": "2024-06-03T05:43:32.821Z"
+            }
+          },
+          {
+            "id": 11,
+            "attributes": {
+              "GenreName": "Horror",
+              "createdAt": "2024-06-03T05:42:57.642Z",
+              "updatedAt": "2024-06-03T05:42:59.097Z",
+              "publishedAt": "2024-06-03T05:42:59.063Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 11,
+          "attributes": {
+            "name": "psycho.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "/uploads/large_psycho_926c0dda90.png",
+                "hash": "large_psycho_926c0dda90",
+                "mime": "image/png",
+                "name": "large_psycho.png",
+                "path": null,
+                "size": 581.58,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 581583
+              },
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_psycho_926c0dda90.png",
+                "hash": "small_psycho_926c0dda90",
+                "mime": "image/png",
+                "name": "small_psycho.png",
+                "path": null,
+                "size": 165.79,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 165794
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "/uploads/medium_psycho_926c0dda90.png",
+                "hash": "medium_psycho_926c0dda90",
+                "mime": "image/png",
+                "name": "medium_psycho.png",
+                "path": null,
+                "size": 345.61,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 345606
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_psycho_926c0dda90.png",
+                "hash": "thumbnail_psycho_926c0dda90",
+                "mime": "image/png",
+                "name": "thumbnail_psycho.png",
+                "path": null,
+                "size": 35.97,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 35972
+              }
+            },
+            "hash": "psycho_926c0dda90",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 267.54,
+            "url": "/uploads/psycho_926c0dda90.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-01T23:43:30.788Z",
+            "updatedAt": "2024-06-01T23:43:30.788Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 5,
+    "attributes": {
+      "Title": "Alien",
+      "createdAt": "2024-06-01T21:52:07.344Z",
+      "updatedAt": "2024-06-03T05:50:40.923Z",
+      "publishedAt": "2024-06-01T22:04:46.160Z",
+      "ImdbId": "tt0078748",
+      "Year": 1979,
+      "Writers": "Dan O'Bannon (screenplay by), Ronald Shusett (story by)",
+      "Director": "Ridley Scott",
+      "Stars": "Sigourney Weaver, Tom Skerritt, John Hurt",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX380_CR0,6,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/jQ5lPt9edzQ",
+      "Description": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
+      "genres": {
+        "data": [
+          {
+            "id": 16,
+            "attributes": {
+              "GenreName": "Sci-Fi",
+              "createdAt": "2024-06-03T05:43:49.259Z",
+              "updatedAt": "2024-06-03T05:43:50.359Z",
+              "publishedAt": "2024-06-03T05:43:50.325Z"
+            }
+          },
+          {
+            "id": 11,
+            "attributes": {
+              "GenreName": "Horror",
+              "createdAt": "2024-06-03T05:42:57.642Z",
+              "updatedAt": "2024-06-03T05:42:59.097Z",
+              "publishedAt": "2024-06-03T05:42:59.063Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 10,
+          "attributes": {
+            "name": "alien.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1040,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "/uploads/large_alien_9f44442475.jpg",
+                "hash": "large_alien_9f44442475",
+                "mime": "image/jpeg",
+                "name": "large_alien.jpg",
+                "path": null,
+                "size": 123.4,
+                "width": 1000,
+                "height": 730,
+                "sizeInBytes": 123400
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "/uploads/small_alien_9f44442475.jpg",
+                "hash": "small_alien_9f44442475",
+                "mime": "image/jpeg",
+                "name": "small_alien.jpg",
+                "path": null,
+                "size": 41.4,
+                "width": 500,
+                "height": 365,
+                "sizeInBytes": 41398
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/uploads/medium_alien_9f44442475.jpg",
+                "hash": "medium_alien_9f44442475",
+                "mime": "image/jpeg",
+                "name": "medium_alien.jpg",
+                "path": null,
+                "size": 79.19,
+                "width": 750,
+                "height": 547,
+                "sizeInBytes": 79195
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/uploads/thumbnail_alien_9f44442475.jpg",
+                "hash": "thumbnail_alien_9f44442475",
+                "mime": "image/jpeg",
+                "name": "thumbnail_alien.jpg",
+                "path": null,
+                "size": 9.53,
+                "width": 214,
+                "height": 156,
+                "sizeInBytes": 9528
+              }
+            },
+            "hash": "alien_9f44442475",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 211.57,
+            "url": "/uploads/alien_9f44442475.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-01T23:28:34.137Z",
+            "updatedAt": "2024-06-01T23:28:34.137Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 6,
+    "attributes": {
+      "Title": "American Beauty",
+      "createdAt": "2024-06-01T21:54:17.515Z",
+      "updatedAt": "2024-06-03T07:02:28.239Z",
+      "publishedAt": "2024-06-01T21:54:21.214Z",
+      "ImdbId": "tt0169547",
+      "Year": 1999,
+      "Writers": "Alan Ball",
+      "Director": "Sam Mendes",
+      "Stars": " Kevin Spacey, Annette Bening, Thora Birch",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/Ly7rq5EsTC8",
+      "Description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+      "genres": {
+        "data": [
+          {
+            "id": 7,
+            "attributes": {
+              "GenreName": "Drama",
+              "createdAt": "2024-06-03T05:42:03.287Z",
+              "updatedAt": "2024-06-03T05:42:04.431Z",
+              "publishedAt": "2024-06-03T05:42:04.396Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 7,
+          "attributes": {
+            "name": "americanbeauty.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "/uploads/large_americanbeauty_889bf99189.png",
+                "hash": "large_americanbeauty_889bf99189",
+                "mime": "image/png",
+                "name": "large_americanbeauty.png",
+                "path": null,
+                "size": 1775.14,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 1775141
+              },
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_americanbeauty_889bf99189.png",
+                "hash": "small_americanbeauty_889bf99189",
+                "mime": "image/png",
+                "name": "small_americanbeauty.png",
+                "path": null,
+                "size": 459.58,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 459576
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "/uploads/medium_americanbeauty_889bf99189.png",
+                "hash": "medium_americanbeauty_889bf99189",
+                "mime": "image/png",
+                "name": "medium_americanbeauty.png",
+                "path": null,
+                "size": 1018.47,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 1018473
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_americanbeauty_889bf99189.png",
+                "hash": "thumbnail_americanbeauty_889bf99189",
+                "mime": "image/png",
+                "name": "thumbnail_americanbeauty.png",
+                "path": null,
+                "size": 87.16,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 87161
+              }
+            },
+            "hash": "americanbeauty_889bf99189",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 759.83,
+            "url": "/uploads/americanbeauty_889bf99189.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-01T23:02:08.362Z",
+            "updatedAt": "2024-06-01T23:02:08.362Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 7,
+    "attributes": {
+      "Title": "City of God",
+      "createdAt": "2024-06-01T22:02:03.769Z",
+      "updatedAt": "2024-06-03T07:08:14.251Z",
+      "publishedAt": "2024-06-01T22:04:46.160Z",
+      "ImdbId": "tt0317248",
+      "Year": 2002,
+      "Writers": "Paulo Lins, Bráulio Mantovani",
+      "Director": "Fernando Meirelles, Kátia Lund",
+      "Stars": " Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/dcUOO4Itgmw",
+      "Description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+      "genres": {
+        "data": [
+          {
+            "id": 6,
+            "attributes": {
+              "GenreName": "Crime",
+              "createdAt": "2024-06-03T05:41:52.375Z",
+              "updatedAt": "2024-06-03T05:41:55.100Z",
+              "publishedAt": "2024-06-03T05:41:55.064Z"
+            }
+          },
+          {
+            "id": 7,
+            "attributes": {
+              "GenreName": "Drama",
+              "createdAt": "2024-06-03T05:42:03.287Z",
+              "updatedAt": "2024-06-03T05:42:04.431Z",
+              "publishedAt": "2024-06-03T05:42:04.396Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 9,
+          "attributes": {
+            "name": "cityofgod.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "/uploads/large_cityofgod_c0f0d06229.jpg",
+                "hash": "large_cityofgod_c0f0d06229",
+                "mime": "image/jpeg",
+                "name": "large_cityofgod.jpg",
+                "path": null,
+                "size": 143.83,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 143831
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "/uploads/small_cityofgod_c0f0d06229.jpg",
+                "hash": "small_cityofgod_c0f0d06229",
+                "mime": "image/jpeg",
+                "name": "small_cityofgod.jpg",
+                "path": null,
+                "size": 34.7,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 34699
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/uploads/medium_cityofgod_c0f0d06229.jpg",
+                "hash": "medium_cityofgod_c0f0d06229",
+                "mime": "image/jpeg",
+                "name": "medium_cityofgod.jpg",
+                "path": null,
+                "size": 74.74,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 74736
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/uploads/thumbnail_cityofgod_c0f0d06229.jpg",
+                "hash": "thumbnail_cityofgod_c0f0d06229",
+                "mime": "image/jpeg",
+                "name": "thumbnail_cityofgod.jpg",
+                "path": null,
+                "size": 8.94,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 8943
+              }
+            },
+            "hash": "cityofgod_c0f0d06229",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 313.4,
+            "url": "/uploads/cityofgod_c0f0d06229.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-01T23:23:05.439Z",
+            "updatedAt": "2024-06-01T23:23:05.439Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 8,
+    "attributes": {
+      "Title": "The Silence of the Lambs",
+      "createdAt": "2024-06-01T22:04:28.822Z",
+      "updatedAt": "2024-06-03T09:15:30.797Z",
+      "publishedAt": "2024-06-01T22:04:32.933Z",
+      "ImdbId": "tt0102926",
+      "Year": 1991,
+      "Writers": "Thomas Harris, Ted Tally",
+      "Director": "Jonathan Demme",
+      "Stars": " Jodie Foster, Anthony Hopkins, Scott Glenn",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/W6Mm8Sbe__o",
+      "Description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "genres": {
+        "data": [
+          {
+            "id": 17,
+            "attributes": {
+              "GenreName": "Thriller",
+              "createdAt": "2024-06-03T05:44:00.123Z",
+              "updatedAt": "2024-06-03T05:44:01.443Z",
+              "publishedAt": "2024-06-03T05:44:01.408Z"
+            }
+          },
+          {
+            "id": 6,
+            "attributes": {
+              "GenreName": "Crime",
+              "createdAt": "2024-06-03T05:41:52.375Z",
+              "updatedAt": "2024-06-03T05:41:55.100Z",
+              "publishedAt": "2024-06-03T05:41:55.064Z"
+            }
+          },
+          {
+            "id": 7,
+            "attributes": {
+              "GenreName": "Drama",
+              "createdAt": "2024-06-03T05:42:03.287Z",
+              "updatedAt": "2024-06-03T05:42:04.431Z",
+              "publishedAt": "2024-06-03T05:42:04.396Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 8,
+          "attributes": {
+            "name": "silenceofthelambs.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "/uploads/large_silenceofthelambs_25b6ffb582.png",
+                "hash": "large_silenceofthelambs_25b6ffb582",
+                "mime": "image/png",
+                "name": "large_silenceofthelambs.png",
+                "path": null,
+                "size": 1865.53,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 1865531
+              },
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_silenceofthelambs_25b6ffb582.png",
+                "hash": "small_silenceofthelambs_25b6ffb582",
+                "mime": "image/png",
+                "name": "small_silenceofthelambs.png",
+                "path": null,
+                "size": 484.47,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 484473
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "/uploads/medium_silenceofthelambs_25b6ffb582.png",
+                "hash": "medium_silenceofthelambs_25b6ffb582",
+                "mime": "image/png",
+                "name": "medium_silenceofthelambs.png",
+                "path": null,
+                "size": 1072.72,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 1072716
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_silenceofthelambs_25b6ffb582.png",
+                "hash": "thumbnail_silenceofthelambs_25b6ffb582",
+                "mime": "image/png",
+                "name": "thumbnail_silenceofthelambs.png",
+                "path": null,
+                "size": 89.31,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 89314
+              }
+            },
+            "hash": "silenceofthelambs_25b6ffb582",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 846.09,
+            "url": "/uploads/silenceofthelambs_25b6ffb582.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-01T23:08:17.820Z",
+            "updatedAt": "2024-06-01T23:08:17.820Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 9,
+    "attributes": {
+      "Title": "Apocalypse Now",
+      "createdAt": "2024-06-01T22:07:29.316Z",
+      "updatedAt": "2024-06-03T09:16:37.391Z",
+      "publishedAt": "2024-06-01T22:07:31.590Z",
+      "ImdbId": "tt0078788",
+      "Year": 1979,
+      "Writers": "John Milius, Francis Ford Coppola, Michael Herr",
+      "Director": "Francis Ford Coppola",
+      "Stars": "Martin Sheen, Marlon Brando, Robert Duvall",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX380_CR0,11,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/FTjG-Aux_yQ",
+      "Description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+      "genres": {
+        "data": [
+          {
+            "id": 18,
+            "attributes": {
+              "GenreName": "War",
+              "createdAt": "2024-06-03T05:44:10.684Z",
+              "updatedAt": "2024-06-03T05:44:10.684Z",
+              "publishedAt": "2024-06-03T05:46:24.495Z"
+            }
+          },
+          {
+            "id": 14,
+            "attributes": {
+              "GenreName": "Mystery",
+              "createdAt": "2024-06-03T05:43:31.385Z",
+              "updatedAt": "2024-06-03T05:43:32.856Z",
+              "publishedAt": "2024-06-03T05:43:32.821Z"
+            }
+          },
+          {
+            "id": 7,
+            "attributes": {
+              "GenreName": "Drama",
+              "createdAt": "2024-06-03T05:42:03.287Z",
+              "updatedAt": "2024-06-03T05:42:04.431Z",
+              "publishedAt": "2024-06-03T05:42:04.396Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 6,
+          "attributes": {
+            "name": "apocalypsenow.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "/uploads/large_apocalypsenow_4f7ecf2b2e.png",
+                "hash": "large_apocalypsenow_4f7ecf2b2e",
+                "mime": "image/png",
+                "name": "large_apocalypsenow.png",
+                "path": null,
+                "size": 1289.74,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 1289744
+              },
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_apocalypsenow_4f7ecf2b2e.png",
+                "hash": "small_apocalypsenow_4f7ecf2b2e",
+                "mime": "image/png",
+                "name": "small_apocalypsenow.png",
+                "path": null,
+                "size": 370.06,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 370061
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "/uploads/medium_apocalypsenow_4f7ecf2b2e.png",
+                "hash": "medium_apocalypsenow_4f7ecf2b2e",
+                "mime": "image/png",
+                "name": "medium_apocalypsenow.png",
+                "path": null,
+                "size": 766.48,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 766483
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_apocalypsenow_4f7ecf2b2e.png",
+                "hash": "thumbnail_apocalypsenow_4f7ecf2b2e",
+                "mime": "image/png",
+                "name": "thumbnail_apocalypsenow.png",
+                "path": null,
+                "size": 80.47,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 80473
+              }
+            },
+            "hash": "apocalypsenow_4f7ecf2b2e",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 512.71,
+            "url": "/uploads/apocalypsenow_4f7ecf2b2e.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-01T22:52:26.084Z",
+            "updatedAt": "2024-06-01T22:52:26.084Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 10,
+    "attributes": {
+      "Title": "The Godfather",
+      "createdAt": "2024-06-01T22:35:25.673Z",
+      "updatedAt": "2024-06-03T09:17:43.726Z",
+      "publishedAt": "2024-06-01T22:35:30.075Z",
+      "ImdbId": "tt0068646",
+      "Year": 1972,
+      "Writers": "Mario Puzo, Francis Ford Coppola",
+      "Director": "Francis Ford Coppola",
+      "Stars": "Marlon Brando, Al Pacino, James Caan",
+      "ImageUrl": "https://cdn.britannica.com/55/188355-050-D5E49258/Salvatore-Corsitto-The-Godfather-Marlon-Brando-Francis.jpg",
+      "Trailer": "https://www.youtube.com/embed/rqGJyUB1Q3s",
+      "Description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+      "genres": {
+        "data": [
+          {
+            "id": 6,
+            "attributes": {
+              "GenreName": "Crime",
+              "createdAt": "2024-06-03T05:41:52.375Z",
+              "updatedAt": "2024-06-03T05:41:55.100Z",
+              "publishedAt": "2024-06-03T05:41:55.064Z"
+            }
+          },
+          {
+            "id": 7,
+            "attributes": {
+              "GenreName": "Drama",
+              "createdAt": "2024-06-03T05:42:03.287Z",
+              "updatedAt": "2024-06-03T05:42:04.431Z",
+              "publishedAt": "2024-06-03T05:42:04.396Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 5,
+          "attributes": {
+            "name": "godfather.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1047,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "/uploads/large_godfather_78edde498d.png",
+                "hash": "large_godfather_78edde498d",
+                "mime": "image/png",
+                "name": "large_godfather.png",
+                "path": null,
+                "size": 946.06,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 946059
+              },
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_godfather_78edde498d.png",
+                "hash": "small_godfather_78edde498d",
+                "mime": "image/png",
+                "name": "small_godfather.png",
+                "path": null,
+                "size": 270.83,
+                "width": 500,
+                "height": 367,
+                "sizeInBytes": 270828
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "/uploads/medium_godfather_78edde498d.png",
+                "hash": "medium_godfather_78edde498d",
+                "mime": "image/png",
+                "name": "medium_godfather.png",
+                "path": null,
+                "size": 562.96,
+                "width": 750,
+                "height": 551,
+                "sizeInBytes": 562956
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_godfather_78edde498d.png",
+                "hash": "thumbnail_godfather_78edde498d",
+                "mime": "image/png",
+                "name": "thumbnail_godfather.png",
+                "path": null,
+                "size": 57.64,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 57644
+              }
+            },
+            "hash": "godfather_78edde498d",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 344.22,
+            "url": "/uploads/godfather_78edde498d.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-01T22:44:43.723Z",
+            "updatedAt": "2024-06-01T22:44:43.723Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 11,
+    "attributes": {
+      "Title": "Casablanca",
+      "createdAt": "2024-06-01T23:56:00.911Z",
+      "updatedAt": "2024-06-03T05:46:12.753Z",
+      "publishedAt": "2024-06-01T23:56:06.195Z",
+      "ImdbId": "tt0034583",
+      "Year": 1942,
+      "Writers": "Julius J. Epstein, Philip G. Epstein, Howard Koch",
+      "Director": "Michael Curtiz",
+      "Stars": "Humphrey Bogart, Ingrid Bergman, Paul Henreid",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UX380_CR0,5,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/BkL9l7qovsE",
+      "Description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+      "genres": {
+        "data": [
+          {
+            "id": 7,
+            "attributes": {
+              "GenreName": "Drama",
+              "createdAt": "2024-06-03T05:42:03.287Z",
+              "updatedAt": "2024-06-03T05:42:04.431Z",
+              "publishedAt": "2024-06-03T05:42:04.396Z"
+            }
+          },
+          {
+            "id": 15,
+            "attributes": {
+              "GenreName": "Romance",
+              "createdAt": "2024-06-03T05:43:40.374Z",
+              "updatedAt": "2024-06-03T05:43:41.409Z",
+              "publishedAt": "2024-06-03T05:43:41.374Z"
+            }
+          },
+          {
+            "id": 18,
+            "attributes": {
+              "GenreName": "War",
+              "createdAt": "2024-06-03T05:44:10.684Z",
+              "updatedAt": "2024-06-03T05:44:10.684Z",
+              "publishedAt": "2024-06-03T05:46:24.495Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 14,
+          "attributes": {
+            "name": "casablanca.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "/uploads/large_casablanca_18b78d29e8.png",
+                "hash": "large_casablanca_18b78d29e8",
+                "mime": "image/png",
+                "name": "large_casablanca.png",
+                "path": null,
+                "size": 676.17,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 676170
+              },
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_casablanca_18b78d29e8.png",
+                "hash": "small_casablanca_18b78d29e8",
+                "mime": "image/png",
+                "name": "small_casablanca.png",
+                "path": null,
+                "size": 202.43,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 202432
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "/uploads/medium_casablanca_18b78d29e8.png",
+                "hash": "medium_casablanca_18b78d29e8",
+                "mime": "image/png",
+                "name": "medium_casablanca.png",
+                "path": null,
+                "size": 403.68,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 403682
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_casablanca_18b78d29e8.png",
+                "hash": "thumbnail_casablanca_18b78d29e8",
+                "mime": "image/png",
+                "name": "thumbnail_casablanca.png",
+                "path": null,
+                "size": 49.07,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 49065
+              }
+            },
+            "hash": "casablanca_18b78d29e8",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 289.1,
+            "url": "/uploads/casablanca_18b78d29e8.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-01T23:54:40.567Z",
+            "updatedAt": "2024-06-01T23:54:40.567Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 12,
+    "attributes": {
+      "Title": "The Prestige",
+      "createdAt": "2024-06-02T00:05:57.671Z",
+      "updatedAt": "2024-06-03T09:19:04.398Z",
+      "publishedAt": "2024-06-02T00:06:01.325Z",
+      "ImdbId": "tt0482571",
+      "Year": 2006,
+      "Writers": "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Priest (novel)",
+      "Director": "Christopher Nolan",
+      "Stars": "Christian Bale, Hugh Jackman, Scarlett Johansson",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/RLtaA9fFNXU",
+      "Description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+      "genres": {
+        "data": [
+          {
+            "id": 7,
+            "attributes": {
+              "GenreName": "Drama",
+              "createdAt": "2024-06-03T05:42:03.287Z",
+              "updatedAt": "2024-06-03T05:42:04.431Z",
+              "publishedAt": "2024-06-03T05:42:04.396Z"
+            }
+          },
+          {
+            "id": 14,
+            "attributes": {
+              "GenreName": "Mystery",
+              "createdAt": "2024-06-03T05:43:31.385Z",
+              "updatedAt": "2024-06-03T05:43:32.856Z",
+              "publishedAt": "2024-06-03T05:43:32.821Z"
+            }
+          },
+          {
+            "id": 16,
+            "attributes": {
+              "GenreName": "Sci-Fi",
+              "createdAt": "2024-06-03T05:43:49.259Z",
+              "updatedAt": "2024-06-03T05:43:50.359Z",
+              "publishedAt": "2024-06-03T05:43:50.325Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 15,
+          "attributes": {
+            "name": "theprestige.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "/uploads/large_theprestige_8724b824cb.jpg",
+                "hash": "large_theprestige_8724b824cb",
+                "mime": "image/jpeg",
+                "name": "large_theprestige.jpg",
+                "path": null,
+                "size": 89.45,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 89454
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "/uploads/small_theprestige_8724b824cb.jpg",
+                "hash": "small_theprestige_8724b824cb",
+                "mime": "image/jpeg",
+                "name": "small_theprestige.jpg",
+                "path": null,
+                "size": 27.08,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 27084
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/uploads/medium_theprestige_8724b824cb.jpg",
+                "hash": "medium_theprestige_8724b824cb",
+                "mime": "image/jpeg",
+                "name": "medium_theprestige.jpg",
+                "path": null,
+                "size": 54.9,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 54898
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/uploads/thumbnail_theprestige_8724b824cb.jpg",
+                "hash": "thumbnail_theprestige_8724b824cb",
+                "mime": "image/jpeg",
+                "name": "thumbnail_theprestige.jpg",
+                "path": null,
+                "size": 7.02,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 7021
+              }
+            },
+            "hash": "theprestige_8724b824cb",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 158.48,
+            "url": "/uploads/theprestige_8724b824cb.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-02T00:05:14.812Z",
+            "updatedAt": "2024-06-02T00:05:14.812Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 13,
+    "attributes": {
+      "Title": "Django Unchained",
+      "createdAt": "2024-06-02T00:12:22.046Z",
+      "updatedAt": "2024-06-03T07:12:54.340Z",
+      "publishedAt": "2024-06-02T00:12:26.558Z",
+      "ImdbId": "tt1853728",
+      "Year": 2012,
+      "Writers": "Quentin Tarantino",
+      "Director": "Quentin Tarantino",
+      "Stars": " Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/0fUCuvNlOCg",
+      "Description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
+      "genres": {
+        "data": [
+          {
+            "id": 5,
+            "attributes": {
+              "GenreName": "Comedy",
+              "createdAt": "2024-06-03T05:41:41.237Z",
+              "updatedAt": "2024-06-03T05:41:42.872Z",
+              "publishedAt": "2024-06-03T05:41:42.837Z"
+            }
+          },
+          {
+            "id": 7,
+            "attributes": {
+              "GenreName": "Drama",
+              "createdAt": "2024-06-03T05:42:03.287Z",
+              "updatedAt": "2024-06-03T05:42:04.431Z",
+              "publishedAt": "2024-06-03T05:42:04.396Z"
+            }
+          },
+          {
+            "id": 19,
+            "attributes": {
+              "GenreName": "Western",
+              "createdAt": "2024-06-03T05:44:23.694Z",
+              "updatedAt": "2024-06-03T05:44:30.683Z",
+              "publishedAt": "2024-06-03T05:44:30.648Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 16,
+          "attributes": {
+            "name": "DjangoUnchained.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "/uploads/large_Django_Unchained_5f40b44052.png",
+                "hash": "large_Django_Unchained_5f40b44052",
+                "mime": "image/png",
+                "name": "large_DjangoUnchained.png",
+                "path": null,
+                "size": 1846.03,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 1846028
+              },
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_Django_Unchained_5f40b44052.png",
+                "hash": "small_Django_Unchained_5f40b44052",
+                "mime": "image/png",
+                "name": "small_DjangoUnchained.png",
+                "path": null,
+                "size": 477.2,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 477202
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "/uploads/medium_Django_Unchained_5f40b44052.png",
+                "hash": "medium_Django_Unchained_5f40b44052",
+                "mime": "image/png",
+                "name": "medium_DjangoUnchained.png",
+                "path": null,
+                "size": 1057.46,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 1057458
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_Django_Unchained_5f40b44052.png",
+                "hash": "thumbnail_Django_Unchained_5f40b44052",
+                "mime": "image/png",
+                "name": "thumbnail_DjangoUnchained.png",
+                "path": null,
+                "size": 89.46,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 89461
+              }
+            },
+            "hash": "Django_Unchained_5f40b44052",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 900.12,
+            "url": "/uploads/Django_Unchained_5f40b44052.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-02T00:12:07.319Z",
+            "updatedAt": "2024-06-02T00:12:07.319Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 14,
+    "attributes": {
+      "Title": "Interstellar",
+      "createdAt": "2024-06-02T00:17:45.590Z",
+      "updatedAt": "2024-06-03T05:13:59.439Z",
+      "publishedAt": "2024-06-02T00:18:07.551Z",
+      "ImdbId": "tt0816692",
+      "Year": 2014,
+      "Writers": "Jonathan Nolan, Christopher Nolan",
+      "Director": "Christopher Nolan",
+      "Stars": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/4T4wxDnTYLg",
+      "Description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "genres": {
+        "data": []
+      },
+      "Image": {
+        "data": {
+          "id": 17,
+          "attributes": {
+            "name": "interstellar.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "/uploads/large_interstellar_e62e3c2cf3.png",
+                "hash": "large_interstellar_e62e3c2cf3",
+                "mime": "image/png",
+                "name": "large_interstellar.png",
+                "path": null,
+                "size": 1521.71,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 1521709
+              },
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_interstellar_e62e3c2cf3.png",
+                "hash": "small_interstellar_e62e3c2cf3",
+                "mime": "image/png",
+                "name": "small_interstellar.png",
+                "path": null,
+                "size": 408.14,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 408143
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "/uploads/medium_interstellar_e62e3c2cf3.png",
+                "hash": "medium_interstellar_e62e3c2cf3",
+                "mime": "image/png",
+                "name": "medium_interstellar.png",
+                "path": null,
+                "size": 881.24,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 881241
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_interstellar_e62e3c2cf3.png",
+                "hash": "thumbnail_interstellar_e62e3c2cf3",
+                "mime": "image/png",
+                "name": "thumbnail_interstellar.png",
+                "path": null,
+                "size": 81.69,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 81692
+              }
+            },
+            "hash": "interstellar_e62e3c2cf3",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 605.82,
+            "url": "/uploads/interstellar_e62e3c2cf3.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-02T00:17:38.145Z",
+            "updatedAt": "2024-06-02T00:17:38.145Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 15,
+    "attributes": {
+      "Title": "It's a Wonderful Life",
+      "createdAt": "2024-06-03T10:09:00.986Z",
+      "updatedAt": "2024-06-03T10:09:06.785Z",
+      "publishedAt": "2024-06-03T10:09:06.749Z",
+      "ImdbId": "tt0038650",
+      "Year": 1946,
+      "Writers": "Frances Goodrich, Albert Hackett, Frank Capra",
+      "Director": "Frank Capra",
+      "Stars": "James Stewart, Donna Reed, Lionel Barrymore",
+      "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+      "Trailer": "https://www.youtube.com/embed/iLR3gZrU2Xo",
+      "Description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+      "genres": {
+        "data": [
+          {
+            "id": 7,
+            "attributes": {
+              "GenreName": "Drama",
+              "createdAt": "2024-06-03T05:42:03.287Z",
+              "updatedAt": "2024-06-03T05:42:04.431Z",
+              "publishedAt": "2024-06-03T05:42:04.396Z"
+            }
+          },
+          {
+            "id": 9,
+            "attributes": {
+              "GenreName": "Fantasy",
+              "createdAt": "2024-06-03T05:42:22.356Z",
+              "updatedAt": "2024-06-03T05:42:23.470Z",
+              "publishedAt": "2024-06-03T05:42:23.435Z"
+            }
+          },
+          {
+            "id": 8,
+            "attributes": {
+              "GenreName": "Family",
+              "createdAt": "2024-06-03T05:42:11.045Z",
+              "updatedAt": "2024-06-03T05:42:13.144Z",
+              "publishedAt": "2024-06-03T05:42:13.109Z"
+            }
+          }
+        ]
+      },
+      "Image": {
+        "data": {
+          "id": 18,
+          "attributes": {
+            "name": "itsawonderfullife.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1425,
+            "height": 1048,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "/uploads/large_itsawonderfullife_ead5398481.jpg",
+                "hash": "large_itsawonderfullife_ead5398481",
+                "mime": "image/jpeg",
+                "name": "large_itsawonderfullife.jpg",
+                "path": null,
+                "size": 124.81,
+                "width": 1000,
+                "height": 735,
+                "sizeInBytes": 124807
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "/uploads/small_itsawonderfullife_ead5398481.jpg",
+                "hash": "small_itsawonderfullife_ead5398481",
+                "mime": "image/jpeg",
+                "name": "small_itsawonderfullife.jpg",
+                "path": null,
+                "size": 45.64,
+                "width": 500,
+                "height": 368,
+                "sizeInBytes": 45639
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/uploads/medium_itsawonderfullife_ead5398481.jpg",
+                "hash": "medium_itsawonderfullife_ead5398481",
+                "mime": "image/jpeg",
+                "name": "medium_itsawonderfullife.jpg",
+                "path": null,
+                "size": 83.17,
+                "width": 750,
+                "height": 552,
+                "sizeInBytes": 83169
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/uploads/thumbnail_itsawonderfullife_ead5398481.jpg",
+                "hash": "thumbnail_itsawonderfullife_ead5398481",
+                "mime": "image/jpeg",
+                "name": "thumbnail_itsawonderfullife.jpg",
+                "path": null,
+                "size": 11.63,
+                "width": 212,
+                "height": 156,
+                "sizeInBytes": 11627
+              }
+            },
+            "hash": "itsawonderfullife_ead5398481",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 208.21,
+            "url": "/uploads/itsawonderfullife_ead5398481.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-06-03T10:08:57.091Z",
+            "updatedAt": "2024-06-03T10:08:57.091Z"
+          }
+        }
+      },
+      "Images": {
+        "data": null
+      }
+    }
+  }
+]

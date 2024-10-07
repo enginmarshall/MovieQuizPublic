@@ -1,0 +1,22 @@
+.main {
+  background-image: url('../../public/images/bg.jpg');
+  background-repeat: repeat;
+  background-position: center center;
+  background-size: cover;
+  background-position-x: -50rem;
+  display: flex;
+  min-height: 86vh;
+}
+
+#instrumentPanel button {
+  margin: 0 2rem 0 0 !important;
+}
+
+.instructionsContent {
+  padding: 1rem 4rem 1rem 10rem;
+  line-height: 2.5rem;
+  background-image: url('../../public/images/notebook.jpg');
+  background-position: -25rem;
+  background-repeat: repeat-y;
+  color: black;
+}
